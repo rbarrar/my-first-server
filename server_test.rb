@@ -2,6 +2,6 @@ require 'sinatra'
 
 get '/' do
 
- "Hello world"
+redirect '/hello.txt'
 
 end
