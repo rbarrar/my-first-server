@@ -8,4 +8,6 @@ students = [
 get '/students' do
   students[0][1]
 
+
+p 'maaaaaaan fuck this hw exercise'
 end
